@@ -12,3 +12,7 @@ obj
 *.user
 *.userprefs
 UpgradeLog*.*
+
+.DS_Store
+
+.idea/
